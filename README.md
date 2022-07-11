@@ -5,4 +5,4 @@ App de notícias sobre futebol feminino - bootcamp santander 2022 DIO.ME
 2. Criação API no GitHub Pages + Inserção e Configuração Retrofit e Picasso
 * Branch Release > https://github.com/vitorfantin/app-soccers-news-dio/tree/release-insercao-e-configuracao-retrofit-picasso
 * API > https://github.com/vitorfantin/soccer-news-api
-* Desafio mudar as cores do APP e + extra deixando o botão arredondado >  https://github.com/vitorfantin/app-soccers-news-dio/tree/release-desafio-mudanca-cores-app-e-deixando-botoes-arredondados   
+* Desafio mudar as cores do APP e deixando o botão arredondado >  https://github.com/vitorfantin/app-soccers-news-dio/tree/release-desafio-mudanca-cores-app-e-deixando-botoes-arredondados   
