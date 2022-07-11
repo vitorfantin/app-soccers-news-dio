@@ -1,0 +1,99 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.dio.soccernews"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:7:5-24:19
+14        android:allowBackup="true"
+14-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\fanti\.gradle\caches\transforms-3\02483169c4c9e0ddffa88758188ac6f1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.SoccerNews" >
+22-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:13:9-48
+23        <activity
+23-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:14:9-23:20
+24            android:name="me.dio.soccernews.MainActivity"
+24-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:15:13-41
+25            android:exported="true"
+25-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:16:13-36
+26            android:label="@string/app_name" >
+26-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:17:13-45
+27            <intent-filter>
+27-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:18:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:19:17-69
+28-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:21:17-77
+30-->D:\GitHub\app-soccers-news-dio\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <provider
+34-->[com.squareup.picasso:picasso:2.8] C:\Users\fanti\.gradle\caches\transforms-3\40342b8c1043d89012beb2d770a38b69\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+35            android:name="com.squareup.picasso.PicassoProvider"
+35-->[com.squareup.picasso:picasso:2.8] C:\Users\fanti\.gradle\caches\transforms-3\40342b8c1043d89012beb2d770a38b69\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+36            android:authorities="me.dio.soccernews.com.squareup.picasso"
+36-->[com.squareup.picasso:picasso:2.8] C:\Users\fanti\.gradle\caches\transforms-3\40342b8c1043d89012beb2d770a38b69\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+37            android:exported="false" />
+37-->[com.squareup.picasso:picasso:2.8] C:\Users\fanti\.gradle\caches\transforms-3\40342b8c1043d89012beb2d770a38b69\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+38        <provider
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+39            android:name="androidx.startup.InitializationProvider"
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+40            android:authorities="me.dio.soccernews.androidx-startup"
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+41            android:exported="false" >
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+42            <meta-data
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+44                android:value="androidx.startup" />
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+45            <meta-data
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\fanti\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+46-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\fanti\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+47                android:value="androidx.startup" />
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\fanti\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+48        </provider>
+49
+50        <uses-library
+50-->[androidx.window:window:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+51            android:name="androidx.window.extensions"
+51-->[androidx.window:window:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+52            android:required="false" />
+52-->[androidx.window:window:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+53        <uses-library
+53-->[androidx.window:window:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+54            android:name="androidx.window.sidecar"
+54-->[androidx.window:window:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+55            android:required="false" />
+55-->[androidx.window:window:1.0.0] C:\Users\fanti\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+56    </application>
+57
+58</manifest>

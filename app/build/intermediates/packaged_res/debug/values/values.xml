@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="primaryColor">#18227c</color>
+    <color name="primaryDarkColor">#00004f</color>
+    <color name="primaryLightColor">#514aac</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="secondaryColor">#ff6f00</color>
+    <color name="secondaryDarkColor">#c43e00</color>
+    <color name="secondaryLightColor">#ffa040</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="default_half_margin">8dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="news_image_height">160dp</dimen>
+    <string name="app_name">Soccer News</string>
+    <string name="cd_favorite_icon">Favorite icon.</string>
+    <string name="cd_news_image">News image.</string>
+    <string name="cd_share_icon">Share icon.</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_news">News</string>
+    <string name="txt_open_link">Open Link</string>
+    <style name="Theme.SoccerNews" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
+        <item name="colorOnSecondary">@color/secondaryDarkColor</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
