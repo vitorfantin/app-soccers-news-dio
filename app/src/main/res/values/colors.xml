@@ -15,4 +15,6 @@
     <color name="secondaryDarkColor">#c43e00</color>
     <color name="primaryTextColor">#ffffff</color>
     <color name="secondaryTextColor">#000000</color>
+    <color name="favorite_active">#FF6200EE</color>
+    <color name="favorite_inactive">#37373737</color>
 </resources>

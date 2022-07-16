@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "me.dio.soccernews.app-mergeDebugResources-39:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\fanti\\.gradle\\caches\\transforms-3\\f791586eb8e3cddcf33fb36842d7675a\\transformed\\appcompat-1.4.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\fanti\\.gradle\\caches\\transforms-3\\69592bd19cec1de513dd3643bec51fc2\\transformed\\appcompat-1.4.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -16,14 +16,14 @@
                     "to": {
                         "startLines": "14,15,16,20",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "1141,1216,1303,1533",
+                        "startOffsets": "1141,1216,1303,1483",
                         "endLines": "14,15,19,23",
                         "endColumns": "74,86,12,12",
-                        "endOffsets": "1211,1298,1528,1770"
+                        "endOffsets": "1211,1298,1478,1670"
                     }
                 },
                 {
-                    "source": "C:\\Users\\fanti\\.gradle\\caches\\transforms-3\\8c8bd08bd5ab439882315c15d3205b6b\\transformed\\material-1.5.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\fanti\\.gradle\\caches\\transforms-3\\d719c211d28576cf41164fe387cd83b0\\transformed\\material-1.5.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

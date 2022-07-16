@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/layout/news_item.xml" value="0.21467391304347827" />
-        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1734375" />
+        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/drawable/ic_favorite.xml" value="0.182" />
+        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.182" />
+        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/drawable/ic_share.xml" value="0.182" />
+        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/drawable/ic_soccer.xml" value="0.182" />
+        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/layout/fragment_news.xml" value="0.2056159420289855" />
+        <entry key="..\:/GitHub/app-soccers-news-dio/app/src/main/res/layout/news_item.xml" value="0.2056159420289855" />
         <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_favorite.xml" value="0.11" />
         <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_soccer.xml" value="0.11" />
         <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/activity_main.xml" value="0.2" />

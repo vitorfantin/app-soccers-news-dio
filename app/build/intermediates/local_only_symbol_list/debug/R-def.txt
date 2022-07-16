@@ -1,6 +1,8 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color favorite_active
+color favorite_inactive
 color primaryColor
 color primaryDarkColor
 color primaryLightColor
@@ -19,6 +21,7 @@ dimen default_half_margin
 dimen default_margin
 dimen news_image_height
 drawable ic_favorite
+drawable ic_ico_app_soccer_news_
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_share
@@ -34,7 +37,7 @@ id nav_view
 id navigation_dashboard
 id navigation_home
 id rvNews
-id text_favorites
+id srlNews
 id tvDescription
 id tvTitle
 layout activity_main
@@ -49,6 +52,7 @@ string app_name
 string cd_favorite_icon
 string cd_news_image
 string cd_share_icon
+string error_network
 string title_favorites
 string title_news
 string txt_open_link

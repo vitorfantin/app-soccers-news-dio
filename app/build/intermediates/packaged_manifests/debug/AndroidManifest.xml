@@ -11,17 +11,18 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+        android:name="me.dio.soccernews.App"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@android:drawable/star_big_on"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@android:drawable/star_big_on"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.SoccerNews" >
         <activity
-            android:name="me.dio.soccernews.MainActivity"
+            android:name="me.dio.soccernews.ui.MainActivity"
             android:exported="true"
             android:label="@string/app_name" >
             <intent-filter>
@@ -35,6 +36,12 @@
             android:name="com.squareup.picasso.PicassoProvider"
             android:authorities="me.dio.soccernews.com.squareup.picasso"
             android:exported="false" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
         <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="me.dio.soccernews.androidx-startup"

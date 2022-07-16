@@ -1,18 +1,22 @@
 [
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-mergeDebugResources-40:\\layout\\fragment_favorites.xml",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\fragment_favorites.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favorites.xml",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_news.xml",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\fragment_news.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-mergeDebugResources-40:\\layout\\news_item.xml",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\news_item.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\news_item.xml",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\news_item.xml"
+        "merged": "me.dio.soccernews.app-mergeDebugResources-40:/layout/news_item.xml",
+        "source": "me.dio.soccernews.app-main-43:/layout/news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-mergeDebugResources-40:\\layout\\fragment_news.xml",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\fragment_news.xml"
     }
 ]

@@ -1,94 +1,98 @@
 [
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\drawable\\ic_favorite.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-pngs-36:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_favorite.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "me.dio.soccernews.app-merged_res-41:/drawable_ic_ico_app_soccer_news_.xml.flat",
+        "source": "me.dio.soccernews.app-main-43:/drawable/ic_ico_app_soccer_news_.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_favorites.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\layout_news_item.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\news_item.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_soccer.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\drawable\\ic_soccer.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\fragment_news.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_news.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\layout\\fragment_news.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\drawable_ic_soccer.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\drawable\\ic_soccer.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_share.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\drawable\\ic_share.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\layout_fragment_favorites.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\fragment_favorites.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\drawable\\ic_share.xml"
     },
     {
-        "merged": "D:\\GitHub\\app-soccers-news-dio\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\GitHub\\app-soccers-news-dio\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\layout_news_item.xml.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\layout\\news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fanti\\.gradle\\daemon\\7.3.3\\me.dio.soccernews.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     }
 ]
