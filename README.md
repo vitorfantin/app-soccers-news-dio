@@ -15,3 +15,6 @@ App de notícias sobre Futebol Feminino - **Santander Bootcamp Mobile Developer 
  * Branch Release -> https://github.com/vitorfantin/app-soccers-news-dio/tree/release-insercao-e-configuracao-retrofit-picasso
  * API -> https://github.com/vitorfantin/soccer-news-api
  * Desafio mudar as cores do APP e deixando o botão arredondado ->  https://github.com/vitorfantin/app-soccers-news-dio/tree/release-desafio-mudanca-cores-app-e-deixando-botoes-arredondados   
+
+**3. Finalização do APP com algumas melhorias*
+* Branch Release -> https://github.com/vitorfantin/app-soccers-news-dio/tree/finalizacao-app-dio
